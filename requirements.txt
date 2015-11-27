@@ -1,0 +1,12 @@
+Jinja2==2.8
+MarkupSafe==0.23
+PyYAML==3.11
+ansible==2.0.0
+argparse==1.2.1
+certifi==2015.11.20
+ecdsa==0.13
+envdir==0.7
+flatdict==1.2.0
+paramiko==1.16.0
+pycrypto==2.6.1
+wsgiref==0.1.2
